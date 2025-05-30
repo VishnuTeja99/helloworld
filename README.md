@@ -21,4 +21,11 @@ Some Numbered Points
 
 > Some caption, quote
 
-[Click Here](https://gitam.edu)
+[Click Here](https://gitam.edu)\
+```
+#include<stdio.h>
+int main(){
+printf("Hello World\n");
+return 0;
+}
+```
