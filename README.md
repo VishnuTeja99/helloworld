@@ -5,6 +5,6 @@
 This is in **Bold**
 This is in *italic*
 
-*Sunday
+* Sunday
 
-*Monday
+* Monday
