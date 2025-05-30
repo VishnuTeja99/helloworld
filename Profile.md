@@ -1,6 +1,6 @@
 # Academics
 
-# * Project & Internships
+# Project & Internships
 
 # Technical Skills
 
